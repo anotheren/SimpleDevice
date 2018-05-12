@@ -14,6 +14,7 @@
 		A08DF20620A58DC3002209EC /* Device+UIDevice.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08DF20520A58DC3002209EC /* Device+UIDevice.swift */; };
 		A08DF20820A58F97002209EC /* Device+DiskSpace.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08DF20720A58F97002209EC /* Device+DiskSpace.swift */; };
 		A08DF20A20A59595002209EC /* Device+Screen.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08DF20920A59595002209EC /* Device+Screen.swift */; };
+		A0FF935120A6DAEC00850ADF /* Device+App.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FF935020A6DAEC00850ADF /* Device+App.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		A0FF60AB20A67CF3004D1932 /* SimpleDevice.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = SimpleDevice.podspec; sourceTree = "<group>"; };
 		A0FF60AC20A67D68004D1932 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A0FF60AD20A67D6E004D1932 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		A0FF935020A6DAEC00850ADF /* Device+App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Device+App.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				A03BD5BE20A57F1200C50A7B /* SimpleDevice.h */,
 				A03BD5BF20A57F1200C50A7B /* Info.plist */,
 				A03BD5D720A5803700C50A7B /* Device.swift */,
+				A0FF935020A6DAEC00850ADF /* Device+App.swift */,
 				A08DF20920A59595002209EC /* Device+Screen.swift */,
 				A08DF20320A58A9D002209EC /* Device+Chip.swift */,
 				A08DF20520A58DC3002209EC /* Device+UIDevice.swift */,
@@ -218,6 +221,7 @@
 				A08DF20620A58DC3002209EC /* Device+UIDevice.swift in Sources */,
 				A08DF20A20A59595002209EC /* Device+Screen.swift in Sources */,
 				A08DF20820A58F97002209EC /* Device+DiskSpace.swift in Sources */,
+				A0FF935120A6DAEC00850ADF /* Device+App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
