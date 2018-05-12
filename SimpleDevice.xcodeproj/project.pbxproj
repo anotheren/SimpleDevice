@@ -37,6 +37,9 @@
 		A08DF20520A58DC3002209EC /* Device+UIDevice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Device+UIDevice.swift"; sourceTree = "<group>"; };
 		A08DF20720A58F97002209EC /* Device+DiskSpace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Device+DiskSpace.swift"; sourceTree = "<group>"; };
 		A08DF20920A59595002209EC /* Device+Screen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Device+Screen.swift"; sourceTree = "<group>"; };
+		A0FF60AB20A67CF3004D1932 /* SimpleDevice.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = SimpleDevice.podspec; sourceTree = "<group>"; };
+		A0FF60AC20A67D68004D1932 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A0FF60AD20A67D6E004D1932 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +64,9 @@
 		A03BD5B120A57F1200C50A7B = {
 			isa = PBXGroup;
 			children = (
+				A0FF60AC20A67D68004D1932 /* README.md */,
+				A0FF60AB20A67CF3004D1932 /* SimpleDevice.podspec */,
+				A0FF60AD20A67D6E004D1932 /* LICENSE */,
 				A03BD5D520A57F9D00C50A7B /* Sources */,
 				A03BD5D620A57FA700C50A7B /* Tests */,
 				A03BD5BC20A57F1200C50A7B /* Products */,
